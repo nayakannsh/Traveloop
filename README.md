@@ -49,8 +49,6 @@ Traveloop is designed to make trip planning feel as exciting as the journey itse
 
 ---
 
-# ✨ Features
-
 # ✨ Core Features
 
 * 🔐 Secure Authentication
